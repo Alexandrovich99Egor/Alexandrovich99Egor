@@ -2,7 +2,7 @@
 - PHP / JavaScript | React.js / Next.js / Laravel | Wordpress
 - Linux | Kali / Ubuntu
 - 🌱 I’m currently learning CyberSecurity and Devops 
-- 📫 How to reach me : telegram @rflash_777 mail : bbff33333@gmail.com
+- 📫 How to reach me :
 - My Liknedin : www.linkedin.com/in/egor-alexandrovich-5a2035270
 - My Telegram : @rflash_777
 
