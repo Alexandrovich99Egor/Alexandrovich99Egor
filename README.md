@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Alexandrovich Yehor , Full Stack Developer
-- PHP / JavaScript | React.js / Next.js / Laravel
+- PHP / JavaScript | React.js / Next.js / Laravel | Wordpress
 - Linux | Kali / Ubuntu
 - 🌱 I’m currently learning CyberSecurity and Devops 
 - 📫 How to reach me : telegram @rflash_777 mail : bbff33333@gmail.com
